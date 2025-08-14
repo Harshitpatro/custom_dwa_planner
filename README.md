@@ -2,7 +2,7 @@
 
 This project implements a custom Dynamic Window Approach (DWA) local planner for TurtleBot3 navigation in ROS2 Humble with Gazebo simulation.
 
-#Demo
+##Demo
 ![alt text](<Screencast from 08-14-2025 02_58_35 PM-VEED.gif>)
 
 ## Prerequisites
